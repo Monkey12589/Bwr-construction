@@ -4,6 +4,7 @@ A fully responsive, custom-built commercial website designed and developed from 
 
 ## 🌐 Live Demo
 Experience the live site here: [bwr-construction.pl](https://bwr-construction.pl)
+
 ---
 
 ## 📸 Project Preview
@@ -19,16 +20,18 @@ By bypassing heavy frameworks, page builders, and third-party script bloat, the 
 
 | Metric Category | Mobile Score | Desktop Score |
 | :--- | :---: | :---: |
-| **Performance** | 🟢 95+ | 🟢 100 |
-| **Accessibility** | 🟢 100 | 🟢 100 |
+| **Performance** | 🟢 88 | 🟢 100 |
+| **Accessibility** | 🟢 90 | 🟢 97 |
 | **Best Practices**| 🟢 100 | 🟢 100 |
 | **SEO** | 🟢 100 | 🟢 100 |
+
 ---
+
 ## 🛠️ Tech Stack
 *   **Frontend:** HTML5 | CSS3 | JavaScript (ES6)
 *   **Backend:** PHP (Modular template architecture & secure form handling)
 *   **Database/Storage:** SQL (Configured for structured data management)
-*   **Optimization Tools:** Google PageSpeed Insights | Webpack/Asset compression
+*   **Optimization Tools:** Google PageSpeed Insights | Webpack / Asset compression
 
 ## ✨ Key Features
 *   **100% Bespoke Development:** Built completely from scratch without relying on bloated, heavy frameworks, ensuring an uncompromised load speed.
