@@ -9,8 +9,7 @@ Experience the live site here: [bwr-construction.pl](https://bwr-construction.pl
 
 ## 📸 Project Preview
 
-![BWR Construction Desktop Preview](assets/preview-d.png)
-![BWR Construction Mobile Preview](assets/preview-m.png)
+![BWR Construction Desktop and Mobile Preview](assets/preview.png)
 
 ---
 
